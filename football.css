@@ -1,12 +1,12 @@
 body {
     color: black;
-    padding-left: 100px;
     background-color: rgb(128, 109, 109);
-    font-size: large;
+    font-size: xx-large;
+    display: inline;
 }
 img{
-width: 900px;
-    margin-left: -250px;
+width: 600px;
+    margin-left: -450px;
     padding-left: 420px;
 
   }
@@ -15,10 +15,8 @@ h4 {
 }
 .note {
     color: black;
-    padding-left: 200px;
-  padding-right: 200px;
+
 }
 h1 {
-    padding-left: 400px;
-  padding-right: 200px;  
+font-size: 30px;
 }
